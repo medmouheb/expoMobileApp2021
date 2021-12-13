@@ -17,6 +17,14 @@ export default function HomeScreen({ navigation }) {
                 title="Go to ListOfItems"
                 onPress={() => navigation.navigate('ListOfItems')}
             />
+            <Button
+                title="Go to signup"
+                onPress={() => navigation.navigate('SignUp')}
+            />
+            <Button
+                title="Go to Login"
+                onPress={() => navigation.navigate('Login')}
+            />
         </View>
     );
 }
