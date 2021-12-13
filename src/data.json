@@ -1,0 +1,80 @@
+[
+    {
+        "id": 941,
+        "uid": "9955ff45-1bf2-457f-9b16-72105ac08bbe",
+        "password": "39ZBeCWGTl",
+        "first_name": "Racheal",
+        "last_name": "Doyle",
+        "username": "racheal.doyle",
+        "email": "racheal.doyle@email.com",
+        "avatar": "https://robohash.org/molestiaedolorsint.png?size=300x300\u0026set=set1",
+        "gender": "Polygender",
+        "phone_number": "+381 148-575-3246 x308",
+        "social_insurance_number": "583820451",
+        "date_of_birth": "1980-02-21",
+        "employment": {
+            "title": "Internal Mining Manager",
+            "key_skill": "Networking skills"
+        },
+        "address": {
+            "city": "Mitchelfort",
+            "street_name": "Phil Mountain",
+            "street_address": "178 Steuber Light",
+            "zip_code": "45245",
+            "state": "Texas",
+            "country": "United States",
+            "coordinates": {
+                "lat": -88.42911205922476,
+                "lng": 165.06477472063955
+            }
+        },
+        "credit_card": {
+            "cc_number": "4600590653039"
+        },
+        "subscription": {
+            "plan": "Standard",
+            "status": "Active",
+            "payment_method": "Money transfer",
+            "term": "Annual"
+        }
+    },
+    {
+        "id": 1048,
+        "uid": "92b22b71-0edc-4f4b-b635-c04968ab1097",
+        "password": "HumlM4ZtcV",
+        "first_name": "Malissa",
+        "last_name": "Lemke",
+        "username": "malissa.lemke",
+        "email": "malissa.lemke@email.com",
+        "avatar": "https://robohash.org/nihilporromolestias.png?size=300x300\u0026set=set1",
+        "gender": "Male",
+        "phone_number": "+27 1-733-780-0157 x5974",
+        "social_insurance_number": "697274975",
+        "date_of_birth": "1991-11-05",
+        "employment": {
+            "title": "National Marketing Coordinator",
+            "key_skill": "Communication"
+        },
+        "address": {
+            "city": "Bernierborough",
+            "street_name": "Numbers Springs",
+            "street_address": "6354 Mechelle Points",
+            "zip_code": "83748-6460",
+            "state": "Iowa",
+            "country": "United States",
+            "coordinates": {
+                "lat": -89.04371886351092,
+                "lng": 109.71201037641555
+            }
+        },
+        "credit_card": {
+            "cc_number": "5314-5564-4961-8926"
+        },
+        "subscription": {
+            "plan": "Starter",
+            "status": "Idle",
+            "payment_method": "Money transfer",
+            "term": "Annual"
+        }
+    }
+]
