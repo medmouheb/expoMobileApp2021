@@ -27,7 +27,7 @@ function SignUp({ navigation }) {
             console.log(error);
           });
 
-          navigation.navigate('Home')
+          navigation.navigate('Details',{username,email})
     }
 
     return (
